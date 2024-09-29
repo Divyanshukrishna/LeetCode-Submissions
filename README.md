@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -27,4 +28,13 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
