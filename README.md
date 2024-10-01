@@ -15,6 +15,7 @@
 | [0041-first-missing-positive](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
