@@ -33,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,4 +76,12 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1642-water-bottles) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
