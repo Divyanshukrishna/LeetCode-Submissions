@@ -9,6 +9,7 @@
 | [1013-fibonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +79,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -84,4 +88,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
