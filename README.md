@@ -23,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -49,6 +50,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
