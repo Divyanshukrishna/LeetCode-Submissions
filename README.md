@@ -29,6 +29,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
@@ -83,6 +84,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [1019-squares-of-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 ## Queue
 |  |
 | ------- |
