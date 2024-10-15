@@ -1,21 +1,26 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        for(int i=0;i<nums.length;i++){
-            nums[i] =(int)Math.abs(Math.pow(nums[i],2));
-        }
         int n = nums.length;
-        for (int i = 0; i < n - 1; i++) {
-            int min_idx = i;
-            for (int j = i + 1; j < n; j++) {
-                if (nums[j] < nums[min_idx]) {
-                    min_idx = j;
-                }
+        int[] result = new int[n];
+        int left = 0;
+        int right = n - 1;
+        int index = n - 1;
+
+        while (left <= right) {
+            int leftSquare = nums[left] * nums[left];
+            int rightSquare = nums[right] * nums[right];
+
+            if (leftSquare > rightSquare) {
+                result[index] = leftSquare;
+                left++;
+            } else {
+                result[index] = rightSquare;
+                right--;
             }
-            int temp = nums[i];
-            nums[i] = nums[min_idx];
-            nums[min_idx] = temp;           
+            index--;
         }
-        return nums;
+
+        return result;
     }
 
 }
