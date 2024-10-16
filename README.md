@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1642-water-bottles) |
@@ -26,6 +27,7 @@
 | [0136-single-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -38,6 +40,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -48,11 +51,13 @@
 | [0041-first-missing-positive](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -108,6 +113,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 ## Queue
 |  |
