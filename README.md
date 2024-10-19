@@ -28,6 +28,7 @@
 | [0169-majority-element](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -42,6 +43,7 @@
 | [0035-search-insert-position](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -53,6 +55,7 @@
 | [0169-majority-element](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +93,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -115,6 +119,7 @@
 | [0169-majority-element](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 ## Queue
 |  |
