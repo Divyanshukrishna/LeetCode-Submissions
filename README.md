@@ -25,6 +25,7 @@
 | [0053-maximum-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
