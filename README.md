@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -95,6 +96,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0344-reverse-string) |
@@ -145,4 +147,8 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1603-running-sum-of-1d-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
