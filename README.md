@@ -45,6 +45,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1603-running-sum-of-1d-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Memoization
 |  |
 | ------- |
@@ -146,6 +150,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Queue
 |  |
 | ------- |
