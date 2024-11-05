@@ -13,6 +13,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0205-isomorphic-strings](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0344-reverse-string) |
+| [2032-largest-odd-number-in-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0055-jump-game) |
+| [2032-largest-odd-number-in-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
