@@ -43,6 +43,7 @@
 | [0792-binary-search](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1603-running-sum-of-1d-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -74,6 +75,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Sliding Window
 |  |
