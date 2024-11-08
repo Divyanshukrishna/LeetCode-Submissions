@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0231-power-of-two) |
