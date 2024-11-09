@@ -143,6 +143,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0344-reverse-string) |
