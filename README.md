@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -34,6 +35,7 @@
 | [0136-single-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
@@ -127,6 +129,7 @@
 | [0042-trapping-rain-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
