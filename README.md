@@ -36,6 +36,7 @@
 | [0118-pascals-triangle](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0189-rotate-array) |
@@ -113,6 +114,7 @@
 | [0055-jump-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
