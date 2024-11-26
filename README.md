@@ -51,6 +51,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1603-running-sum-of-1d-array) |
@@ -116,6 +117,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0322-coin-change) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -129,6 +131,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,6 +190,7 @@
 ## Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
@@ -227,4 +231,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0322-coin-change) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
