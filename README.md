@@ -56,6 +56,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1603-running-sum-of-1d-array) |
+| [1677-matrix-diagonal-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1677-matrix-diagonal-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -238,4 +239,8 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
