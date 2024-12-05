@@ -260,4 +260,20 @@
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0975-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0975-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
