@@ -248,6 +248,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -263,17 +264,21 @@
 ## Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
