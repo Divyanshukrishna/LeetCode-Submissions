@@ -150,6 +150,7 @@
 | [0015-3sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
@@ -242,6 +243,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
