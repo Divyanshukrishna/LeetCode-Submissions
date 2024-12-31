@@ -95,6 +95,7 @@
 | [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -109,6 +110,7 @@
 | [0136-single-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [0205-isomorphic-strings](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
@@ -208,6 +211,7 @@
 | [0242-valid-anagram](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1468-check-if-n-and-its-double-exist) |
