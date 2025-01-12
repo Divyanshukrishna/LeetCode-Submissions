@@ -52,6 +52,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0816-design-hashset) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
@@ -98,6 +99,7 @@
 | [0389-find-the-difference](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0816-design-hashset](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0816-design-hashset) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1848-sum-of-unique-elements) |
@@ -259,6 +261,7 @@
 | [0234-palindrome-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0328-odd-even-linked-list) |
+| [0816-design-hashset](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0908-middle-of-the-linked-list) |
 ## Breadth-First Search
@@ -301,5 +304,10 @@
 ## Design
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0838-design-linked-list) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
