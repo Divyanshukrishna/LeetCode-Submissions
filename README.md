@@ -178,6 +178,7 @@
 | [0020-valid-parentheses](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [3447-clear-digits](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [1642-water-bottles](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
+| [3447-clear-digits](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/3447-clear-digits) |
 ## String
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3447-clear-digits](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
