@@ -51,6 +51,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0816-design-hashset) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -243,6 +244,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1603-running-sum-of-1d-array) |
 ## Greedy
 |  |
