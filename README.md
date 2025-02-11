@@ -289,21 +289,25 @@
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0975-range-sum-of-bst) |
 ## Design
