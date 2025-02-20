@@ -17,6 +17,7 @@
 | [1642-water-bottles](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
+| [2448-count-number-of-bad-pairs](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
@@ -107,6 +109,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1848-sum-of-unique-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
@@ -238,6 +241,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1848-sum-of-unique-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 ## Sliding Window
 |  |
 | ------- |
