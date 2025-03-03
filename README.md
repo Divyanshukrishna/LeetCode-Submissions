@@ -66,6 +66,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1848-sum-of-unique-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -180,6 +181,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Stack
 |  |
@@ -200,6 +202,7 @@
 | [1642-water-bottles](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3447-clear-digits](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/3447-clear-digits) |
 ## String
 |  |
