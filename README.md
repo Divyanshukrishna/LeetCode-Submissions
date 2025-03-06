@@ -19,6 +19,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
+| [3227-find-missing-and-repeated-values](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2448-count-number-of-bad-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -303,6 +306,7 @@
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1677-matrix-diagonal-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/3227-find-missing-and-repeated-values) |
 ## String Matching
 |  |
 | ------- |
