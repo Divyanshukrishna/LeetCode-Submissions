@@ -183,6 +183,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0874-backspace-string-compare](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -199,6 +200,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0874-backspace-string-compare) |
 | [3447-clear-digits](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -207,6 +209,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
@@ -224,6 +227,7 @@
 | [0344-reverse-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0389-find-the-difference) |
+| [0874-backspace-string-compare](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0874-backspace-string-compare) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/2232-adding-spaces-to-a-string) |
