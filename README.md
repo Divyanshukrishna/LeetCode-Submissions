@@ -197,6 +197,7 @@
 | [0042-trapping-rain-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [3447-clear-digits](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -357,6 +358,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0838-design-linked-list) |
