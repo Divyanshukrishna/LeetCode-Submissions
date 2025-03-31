@@ -201,11 +201,13 @@
 | [0155-min-stack](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0937-online-stock-span) |
 | [3447-clear-digits](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0937-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -366,9 +368,14 @@
 | [0303-range-sum-query-immutable](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0816-design-hashset) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Divyanshukrishna/LeetCode-Submissions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
