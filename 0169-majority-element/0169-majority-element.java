@@ -1,15 +1,14 @@
-import java.util.HashMap;
 class Solution {
     public int majorityElement(int[] nums) {
         HashMap<Integer,Integer> map = new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            int j = nums[i];
-            map.put(j,map.getOrDefault(j,0) +1);
+
+        for(int i:nums){
+            map.put(i,map.getOrDefault(i,0)+1);
         }
 
-        for(Integer key : map.keySet()){
-            if(map.get(key) > nums.length/2){
-                return key;
+        for(Integer i:map.keySet()){
+            if(map.get(i) > nums.length/2){
+                return i;
             }
         }
         return 0;
